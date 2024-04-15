@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Javascript 연산자 종류
-date: 2024-04-15 11:33 +0900
+date: 2024-04-12 11:33 +0900
 description: 
 image: 
-category: [Javascript,]
-tags: Javascript 연산자
+category: [Javascript, Operator]
+tags: Javascript Operator
 published: true
 sitemap: true
 ---
