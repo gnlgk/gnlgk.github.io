@@ -3,7 +3,7 @@ layout: post
 title: Javascript 연산자 종류
 date: 2024-04-12 11:33 +0900
 description: 
-image: 
+image: ../assets/img/javascript01.jpg
 category: [Javascript, Operator]
 tags: Javascript Operator
 published: true
