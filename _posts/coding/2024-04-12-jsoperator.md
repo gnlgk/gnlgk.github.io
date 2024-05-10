@@ -4,7 +4,7 @@ title: Javascript 연산자 종류
 date: 2024-04-12 11:33 +0900
 description: 
 image: ../assets/img/javascript01.jpg
-category: [Javascript, Operator]
+category: [Javascript]
 tags: Javascript Operator
 published: true
 sitemap: true
